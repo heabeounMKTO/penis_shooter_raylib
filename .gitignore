@@ -42,6 +42,8 @@
 *.idb
 *.pdb
 
+penis_shooter
+
 # Kernel Module Compile Results
 *.mod*
 *.cmd
